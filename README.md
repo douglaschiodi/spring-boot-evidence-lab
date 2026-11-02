@@ -6,6 +6,8 @@ A small, inspectable Java backend and browser client for document retrieval and 
 
 [Português](README.pt-BR.md) · [Architecture & trade-offs](ARCHITECTURE.md)
 
+![Evidence Desk browser demo](demo.png)
+
 ## Run
 
 Requires JDK 17+ and Maven 3.6.3+. Ensure `JAVA_HOME` points to the JDK used by Maven.

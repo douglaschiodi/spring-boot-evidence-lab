@@ -2,6 +2,8 @@
 
 Demonstração autoral de backend Java com interface web para buscar documentos e apresentar trechos com fontes verificáveis.
 
+![Demonstração Evidence Desk](demo.png)
+
 ## Executar
 
 Use JDK 17+ e Maven 3.6.3+. Confira se `JAVA_HOME` aponta para o JDK correto.
